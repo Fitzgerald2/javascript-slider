@@ -1,7 +1,7 @@
 body {
   height: 100vh;
   background: rgb(2, 0, 36);
-  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 121, 10, 0.18669474625787819) 26%, rgba(0, 255, 83, 0.5228292000393908) 75%);
+  background: linear-gradient(90deg, rgba(62, 227, 129, 1) 0%, rgba(29, 253, 170, 1) 45%, rgba(0, 175, 198, 1) 100%);
 }
 
 .circle {
@@ -9,6 +9,7 @@ body {
   height: 20px;
   background-color: #e3210e;
   border-radius: 50%;
+  margin: 0 auto;
 }
 
 h1 {

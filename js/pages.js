@@ -20,13 +20,13 @@ const pages = [{
   },
 
   {
-    content: "this is the pages content",
+    content: "The following pages where created using java Javascript 6",
     background: "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(45,9,121,0.18669474625787819) 12%, rgba(34,69,112,1) 37%, rgba(255,113,0,0.5228292000393908) 53%)",
     circle: "#4664fc"
   },
 
   {
-    content: "this is the pages content",
+    content: "On each  page the colour of the dot on the left will change color",
     background: "linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(115,252,70,1) 100%)",
     circle: "#dbd525"
   },
