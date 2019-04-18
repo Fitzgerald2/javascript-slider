@@ -14,7 +14,7 @@
 const pages = [{
 
 
-    content: "Welcom",
+    content: "Welcome",
     background: "linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 121, 10, 0.18669474625787819) 26%, rgba(0, 255, 83, 0.5228292000393908) 75%)",
     circle: " #e3210e"
   },
